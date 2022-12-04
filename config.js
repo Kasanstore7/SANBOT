@@ -16,13 +16,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895604670507']
-global.ownernomer = "62895604670507"
-global.premium = ['62895604670507','6281328144300']
-global.packname = 'Zenss'
-global.author = 'Cuyy'
-global.sessionName = 'zenss'
-global.prefa = ['','!','.','#','&']
+global.owner = ['6285641142178']
+global.ownernomer = "6285641142178"
+global.premium = ['6285641142178','6283805685278']
+global.packname = 'Saxia Botz Md
+global.author = 'kaXel'
+global.sessionName = 'kasan'
+global.prefa = [','!','.','#','&']
 global.sp = ''
 global.mess = {
     success: 'Done',
@@ -37,8 +37,8 @@ global.mess = {
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
-    premium: "Infinity",
-    free: 25
+    premium: "555555555",
+    free: 30
 }
 global.thumb = fs.readFileSync('./image/zens.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
